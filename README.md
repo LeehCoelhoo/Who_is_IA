@@ -4,7 +4,7 @@
 
 This project aims to demonstrate the potential of artificial intelligence in creating realistic videos that simulate everyday human speech.
 
-A video was developed using AI-generated avatars and voice, following a “storytelling/desabafo” style script to replicate natural communication patterns such as pauses, hesitations, and informal language.
+Two videos were developed using AI-generated avatars and voice, following a storytelling-style script designed to replicate natural communication patterns such as pauses, hesitations, and informal language.
 
 The main idea is to challenge the viewer’s perception:
 
@@ -23,7 +23,7 @@ The main idea is to challenge the viewer’s perception:
 
 ## 🧰 Tools Used
 
-- 🎭 ChatGPT - Scripts of video  
+- 🎭 ChatGPT — Script creation  
   🔗 https://chatgpt.com/ 
 
 - 🤖 HeyGen — AI avatar and video generation  
@@ -32,15 +32,47 @@ The main idea is to challenge the viewer’s perception:
 - 🎬 Vidnoz AI — AI video creation platform  
   🔗 https://pt.vidnoz.com  
 
-- ✂️ CapCut — video editing and final adjustments  
+- ✂️ CapCut — Video editing and final composition  
   🔗 https://www.capcut.com  
 
 ---
 
+## ⚙️ Creation Process
+
+### 🎥 Video 1 — Custom Avatar (HeyGen)
+
+For the first video, a custom avatar was created using a detailed prompt to simulate a realistic Brazilian woman:
+
+> “Brazilian woman from São Paulo, around 27 years old, common appearance, light brown skin, dark brown hair slightly messy or simply tied, light makeup, casual clothing, natural and slightly tired expression, realistic style, soft ambient lighting, everyday look.”
+
+A natural voice was selected and the script was generated in English.  
+Portuguese (my native language) was initially tested, but it sounded more robotic, so English was chosen to achieve a more natural and convincing result.
+
+The script was created with the support of ChatGPT and implemented using HeyGen.
+
+---
+
+### 🎥 Video 2 — Prebuilt Avatar (Vidnoz AI)
+
+For the second video, a prebuilt avatar was selected using Vidnoz AI.
+
+A voice was chosen, and the script (also created with ChatGPT support) was added directly to the platform.
+
+This version follows a slightly more structured and polished communication style, creating a subtle contrast with the first video.
+
+---
+
+### ✂️ Final Editing
+
+Both videos were combined and refined using CapCut, where adjustments were made to improve visual framing and enhance realism (such as focusing on the face and minimizing unnatural movements).
+
+---
 
 ## 🎥 Watch the video
 
 [![Thumbnail](./thumbnail.png)](https://drive.google.com/file/d/1pWZB_R7dP37Uh9SKgooarPnkRxzXNIvR/view?usp=sharing)
+
+---
 
 ## 🧠 Reflection
 
